@@ -110,7 +110,7 @@ Attendees can view conference details and reserve seats based on seat availabili
 ![Admin Dashboard](screenshots/home.png)
 
 ### Add Conferences
-![Conference List](screenshots/addconferences.png)
+![Conference List](screenshots/addconference.png)
 
 ### Delete details with reservation
 ![Conference Reservation](screenshots/delete.png)
